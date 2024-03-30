@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/permission_handler-10.4.3" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location-5.0.3" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_web-4.2.0" />
+      <root url="file://$PROJECT_DIR$/../../../../../../../../../flutter/.pub-cache/hosted/pub.dartlang.org/flutter_blue_plus-1.14.9" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
